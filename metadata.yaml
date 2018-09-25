@@ -1,0 +1,36 @@
+_repo: The-Black-Bear_57642
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kerfoot, J. B. (John Barrett)
+    alias: Kerfoot, John Barrett,
+    birthdate: 1865
+    deathdate: 1927
+    gutenberg_agent_id: '49524'
+    url: http://www.gutenberg.org/2009/agents/49524
+creator:
+  author:
+    agent_name: Wright, William H. (William Henry)
+    alias: Wright, William Henry
+    birthdate: 1856
+    deathdate: 1934
+    gutenberg_agent_id: '49523'
+    url: http://www.gutenberg.org/2009/agents/49523
+description: ''
+gutenberg_issued: '2018-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57642'
+  lccn: '10011184'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Black bear'
+- !lcc 'QL'
+- !lcsh 'Black bear -- Folklore'
+- GITenberg
+tableOfContents: 'The story of Ben -- The black bear: its distribution and habits.'
+title: The Black Bear
+url: http://www.gutenberg.org/ebooks/57642
